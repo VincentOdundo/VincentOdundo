@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @VincentOdundo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning JavaScript Algorithms and Data Structures
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 👋 Hi, I’m Vince
+
+
 
 <!---
 VincentOdundo/VincentOdundo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
